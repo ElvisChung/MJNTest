@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/3hkzwpd2ek977oh/MJNSFA-20180611-UAT.ipa</string>
+					<string>https://raw.githubusercontent.com/ElvisChung/MJNTest/blob/master/MJNSFA-20180611-UAT.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
